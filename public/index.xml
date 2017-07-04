@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Hugo website</title>
+    <link>/</link>
+    <description>Recent content on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Storyboards (in R Markdown)</title>
+      <link>/2017/07/03/second-new-post-in-r-markdown/</link>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/07/03/second-new-post-in-r-markdown/</guid>
+      <description>Storyboarding is a key component of designing and conveying a user experience. For this assignment, we created two storyboards for two different experiences our persona might have with the product. We created one hand drawn storyboard and one photo storyboard. I have included my final storyboards below.
+The prior week’s studio session was useful for us to begin to think of potential scenarios. We begun working by individually creating mind maps of possible data and actions our product could include.</description>
+    </item>
+    
+    <item>
+      <title>User Research</title>
+      <link>/2017/07/03/first-new-post-in-plain-markdown/</link>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/07/03/first-new-post-in-plain-markdown/</guid>
+      <description>This week’s studio session aimed at giving us practice with user research, specifically observation. In studio, our task was to observe a practice field site and take field notes. We then returned to discuss our notes and present our work to the class.
+I loved the experience of observing and making field notes, as it was the first time I worked on a project like this. However, I encountered a couple problems during the process.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+    </item>
+    
+  </channel>
+</rss>
